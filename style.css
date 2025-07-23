@@ -266,6 +266,7 @@ footer{
 
 .footer__wrapper{
   display: flex;
+  justify-content: space-between;
   gap: 140px;
 }
 
@@ -281,6 +282,16 @@ footer{
 .footer__navigation-item, 
 .contacts-text{
   color: #86928B;
+}
+
+.social-media__wrapper{
+  display: flex;
+  gap: 30px;
+}
+
+.copyright{
+  color: #86928B;
+  font-size: 12px;
 }
 
 
