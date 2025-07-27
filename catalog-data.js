@@ -1,6 +1,6 @@
 export const catalogData = [
     {
-        image: '/img/france/france1.jpg',
+        image: 'img/france/france1.jpg',
         author: 'Марсель Руссо',
         title: 'Охота Амура',
         description: 'Холст, масло (50х80)',
@@ -8,7 +8,7 @@ export const catalogData = [
         country: 'france'
     },
     {
-        image: '/img/france/france2.jpg',
+        image: 'img/france/france2.jpg',
         author: 'Анри Селин',
         title: 'Дама с собачкой',
         description: 'Акрил, бумага (50х80)',
@@ -16,7 +16,7 @@ export const catalogData = [
         country: 'france'
     },
     {
-        image: '/img/france/france3.jpg',
+        image: 'img/france/france3.jpg',
         author: 'Франсуа Дюпон',
         title: 'Процедура',
         description: 'Цветная литография (40х60)',
@@ -24,7 +24,7 @@ export const catalogData = [
         country: 'france'
     },
     {
-        image: '/img/france/france4.jpg',
+        image: 'img/france/france4.jpg',
         author: 'Луи Детуш',
         title: 'Роза',
         description: 'Бумага, акрил (50х80)',
@@ -32,7 +32,7 @@ export const catalogData = [
         country: 'france'
     },
     {
-        image: '/img/france/france5.jpg',
+        image: 'img/france/france5.jpg',
         author: 'Франсуа Дюпон',
         title: 'Птичья трапеза',
         description: 'Цветная литография (40х60)',
@@ -40,7 +40,7 @@ export const catalogData = [
         country: 'france'
     },
     {
-        image: '/img/france/france6.jpg',
+        image: 'img/france/france6.jpg',
         author: 'Пьер Моранж',
         title: 'Пейзаж с рыбой',
         description: 'Цветная литография (40х60)',
@@ -48,7 +48,7 @@ export const catalogData = [
         country: 'france'
     },
     {
-        image: '/img/germany/germany1.jpg',
+        image: 'img/germany/germany1.jpg',
         author: 'Курт Вернер',
         title: 'Над городом',
         description: 'Цветная литография (40х60)',
@@ -56,7 +56,7 @@ export const catalogData = [
         country: 'germany'
     },
     {
-        image: '/img/germany/germany2.jpg',
+        image: 'img/germany/germany2.jpg',
         author: 'Макс Рихтер',
         title: 'Птенцы',
         description: 'Холст, масло (50х80) ',
@@ -64,7 +64,7 @@ export const catalogData = [
         country: 'germany'
     },
     {
-        image: '/img/germany/germany3.jpg',
+        image: 'img/germany/germany3.jpg',
         author: 'Мартин Майер',
         title: 'Среди листьев',
         description: 'Цветная литография (40х60) ',
@@ -72,7 +72,7 @@ export const catalogData = [
         country: 'germany'
     },
     {
-        image: '/img/germany/germany4.jpg',
+        image: 'img/germany/germany4.jpg',
         author: 'Герман Беккер',
         title: 'Яркая птица',
         description: 'Цветная литография (40х60) ',
@@ -80,7 +80,7 @@ export const catalogData = [
         country: 'germany'
     },
     {
-        image: '/img/germany/germany5.jpg',
+        image: 'img/germany/germany5.jpg',
         author: 'Вульф Бауэр',
         title: 'Дятлы',
         description: 'Бумага, акрил (50х80) ',
@@ -88,7 +88,7 @@ export const catalogData = [
         country: 'germany'
     },
     {
-        image: '/img/germany/germany6.jpg',
+        image: 'img/germany/germany6.jpg',
         author: 'Вальтер Хартманн',
         title: 'Большие воды',
         description: 'Бумага, акрил (50х80) ',
@@ -96,7 +96,7 @@ export const catalogData = [
         country: 'germany'
     },
     {
-        image: '/img/england/england1.jpg',
+        image: 'img/england/england1.jpg',
         author: 'Пол Смит',
         title: 'Дикий зверь',
         description: 'Акварель, бумага (50х80) ',
@@ -104,7 +104,7 @@ export const catalogData = [
         country: 'england'
     },
     {
-        image: '/img/england/england2.jpg',
+        image: 'img/england/england2.jpg',
         author: 'Джон Уайт',
         title: 'Скалистый берег',
         description: 'Цветная литография (40х60) ',
@@ -112,7 +112,7 @@ export const catalogData = [
         country: 'england'
     },
     {
-        image: '/img/england/england3.jpg',
+        image: 'img/england/england3.jpg',
         author: 'Джим Уотсон',
         title: 'Река и горы',
         description: 'Акварель, бумага (50х80) ',
@@ -120,7 +120,7 @@ export const catalogData = [
         country: 'england'
     },
     {
-        image: '/img/england/england4.jpg',
+        image: 'img/england/england4.jpg',
         author: 'Юджин Зиллион',
         title: 'Белый попугай',
         description: 'Цветная литография (40х60) ',
@@ -128,7 +128,7 @@ export const catalogData = [
         country: 'england'
     },
     {
-        image: '/img/england/england5.jpg',
+        image: 'img/england/england5.jpg',
         author: 'Эрик Гиллман',
         title: 'Ночная рыба',
         description: 'Бумага, акрил (50х80) ',
@@ -136,7 +136,7 @@ export const catalogData = [
         country: 'england'
     },
     {
-        image: '/img/england/england6.jpg',
+        image: 'img/england/england6.jpg',
         author: 'Альфред Барр',
         title: 'Рыжий кот',
         description: 'Цветная литография (40х60) ',
